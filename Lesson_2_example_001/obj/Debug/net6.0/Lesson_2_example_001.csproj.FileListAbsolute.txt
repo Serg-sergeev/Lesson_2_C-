@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\bin\Debug\net6.0\Lesson_2_example_001.exe
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\bin\Debug\net6.0\Lesson_2_example_001.deps.json
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\bin\Debug\net6.0\Lesson_2_example_001.runtimeconfig.json
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\bin\Debug\net6.0\Lesson_2_example_001.dll
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\bin\Debug\net6.0\Lesson_2_example_001.pdb
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.dll
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\refint\Lesson_2_example_001.dll
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.pdb
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\Lesson_2_example_001.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Example_DZ02\Lesson_2_example_001\obj\Debug\net6.0\ref\Lesson_2_example_001.dll
